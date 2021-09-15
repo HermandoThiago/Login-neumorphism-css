@@ -10,7 +10,7 @@ Esse estilo de design de interface buscar aproximar objetos 2D com os reais que 
 
 O projeto:
 
-![GIF projeto](C:\Users\Hermando Thiago\Desktop\repositories\login-neomorfismo\login.gif)
+![login](https://user-images.githubusercontent.com/90439416/133356073-7e473f63-cffb-49ed-b4a2-0eb09fe403ea.gif)
 
 Tecnologias:
 
